@@ -1,0 +1,69 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#proportionMap {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+#legend {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 110px;
+    background: #fff;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    padding: 10px 20px 10px 10px;
+    border-radius: 3px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.break {
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+}
+
+.dot {
+    display: inline-block;
+    margin-top: 5px;
+    border-radius: 50%;
+    opacity: 0.6;
+}
+
+.dot-label {
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-style: italic;
+}
+
+a {
+    color: black;
+}
+
+#title, #subtitle {
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+
+#title {
+    font-size: 25pt;
+    left: 0;
+    top: 0;
+}
+
+#subtitle {
+    font-size: 15pt;
+    left: 0;
+    top: 50px;
+}
