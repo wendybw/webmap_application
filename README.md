@@ -19,8 +19,8 @@ Acknowledgment:
 The data and tutorial of making this web map application were provided by Prof. Zhao. [link to the tutorial]
 
 
- [map1]: [https://wendybw.github.io/webmap_application/map1.html]
- [map2]: [https://wendybw.github.io/webmap_application/map2.html]
+ [Map1]: [https://wendybw.github.io/webmap_application/map1.html]
+ [Map2]: [https://wendybw.github.io/webmap_application/map2.html]
  [The New York Times]: https://github.com/nytimes/covid-19-data/blob/43d32dde2f87bd4dafbb7d23f5d9e878124018b8/live/us-counties.csv
  [U.S. Census Bureau]: https://data.census.gov/table/ACSDP5Y2018.DP05?g=0100000US$050000&d=ACS%205-Year%20Estimates%20Data%20Profiles&hidePreview=true 
 [link to the tutorial]: https://github.com/jakobzhao/geog458/tree/master/labs/lab03
