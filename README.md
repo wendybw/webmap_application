@@ -10,11 +10,12 @@ In this lab, I design two interactive web maps of COVID-19 cases and rates in th
 
 The primary library that's been used in creating this application is Mapbox GL JS. Some functions that are called to create the interactive functions are map.on('click', ...), mapboxgl.Popup, map.on('mousemove'), map.om('mouseleave), etc. Tools that are used for data cleaning are QGIS and mapshaper. The COVID-19 case/death data are originally from The New York Times, and the population data used for calculating the case rates are from the 2018 ACS 5 year estimates.
 
-####Sources: 
+Sources: 
 - [The New York Times]
 - [U.S. Census Bureau]
 
-####Acknowledgment
+Acknowledgment:
+
 The data and tutorial of making this web map application were provided by Prof. Zhao. [link to the tutorial]
 
 
